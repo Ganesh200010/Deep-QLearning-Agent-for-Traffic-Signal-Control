@@ -121,16 +121,3 @@ Reward is calculated as the negative change in total vehicle waiting time. The a
 
 ```bash
 python training_main.py
-├── training_main.py
-├── training_simulation.py
-├── testing_main.py
-├── testing_simulation.py
-├── model.py
-├── memory.py
-├── generator.py
-├── visualization.py
-├── utils.py
-├── training_settings.ini
-├── testing_settings.ini
-└── intersection/
-    └── sumo_config.sumocfg, route files, etc.
